@@ -1,0 +1,8 @@
+Movie,Genre,Price,Showtime,Theatre,Image
+Avengers Endgame,Action,300,8:00 PM,PVR,images/endgame.jpg
+The Hangover,Comedy,200,6:00 PM,INOX,images/hangover.jpg
+Interstellar,Sci-Fi,250,7:00 PM,PVR,images/interstellar.jpg
+John Wick,Action,280,9:00 PM,Cinepolis,images/johnwick.jpg
+The Notebook,Romance,200,6:00 PM,INOX,images/notebook.jpg
+The Pursuit of Happyness,Drama,220,7:00 PM,PVR,images/pursuit.jpg
+Superbad,Comedy,180,5:00 PM,Cinepolis,images/superbad.jpg
